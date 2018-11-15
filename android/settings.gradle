@@ -1,0 +1,3 @@
+rootProject.name = 'silk_controls'
+
+include ':app'
